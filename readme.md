@@ -1,7 +1,9 @@
-   												Welcome to MARIO!
-============================================================================================================================
-											Design with love and passion 
-													By Mudit Agarwal
+  ## Welcome to MARIO! ##
+=========================
+
+Design with **love** and **passion** 
+By Mudit Agarwal
+
 This **README** file contains :
  1.  Information About the Game
  2. Rules of the Game
@@ -72,5 +74,5 @@ pip3 install numpy
 ```
 _______________
 
-###Mudit Agarwal
-####20171090
+## Mudit Agarwal
+#### 20171090
